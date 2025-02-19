@@ -1,0 +1,6 @@
+Date : 16/08/2023 - 17:53:36
+Title : remoteControlledCar
+Price : 30 euros
+Eco-Score : B
+Defect : 15 %Details : Les batteries ont un pourcentage de charge qui est compris entre 0 et 100.
+Le moteur éléctrique à une puissance, spécifiée en Watts.

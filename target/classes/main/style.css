@@ -1,0 +1,25 @@
+/* Styles par défaut pour toutes les cellules */
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+
+/* Styles pour les cellules contenant "Batterie" */
+.list-cell:contains("Battery") {
+    -fx-background-color: lightgreen;
+}
+
+/* Styles pour les cellules contenant "Moteur" */
+.list-cell:contains("Moteur") {
+    -fx-background-color: lightpink;
+}
+
+/* Styles pour les cellules contenant "Capteur" */
+.list-cell:contains("Capteur") {
+    -fx-background-color: lightblue;
+}
+
+/* Styles pour les cellules sélectionnées */
+.list-cell:filled:selected {
+    -fx-background-color: derive(lightgreen, 20%);
+}

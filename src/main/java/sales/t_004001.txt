@@ -1,0 +1,5 @@
+Date : 16/08/2023 - 00:40:01
+Titre du produit : remoteControlledCar
+Prix : 30 euros
+Eco-Score : B
+Défectuosité : 15 %
